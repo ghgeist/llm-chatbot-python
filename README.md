@@ -1,5 +1,5 @@
 # Neo4j-backed Chatbot using Python
-![Example GIF](llm-chatbot-python\demo_videos\chatbot.gif)
+![Example GIF](llm-chatbot-python\demo_videos\chatbot_resized.gif)
 
 This repository contains the code for a chatbot that uses Neo4j to answer questions about movies and actors. The chatbot is built using Python and the Streamlit library. The chatbot uses a Neo4j database that contains information about movies and actors, and it uses Cypher queries to retrieve information from the database. The chatbot can answer questions about movies, actors, and the relationships between them. The chatbot uses a simple natural language processing (NLP) model to understand user queries and generate responses. The chatbot is deployed as a web application using Streamlit, and it can be accessed through a web browser. The chatbot provides a conversational interface that allows users to ask questions about movies and actors and receive answers in real time. The chatbot is designed to be easy to use and understand, and it provides a fun and interactive way to explore the world of movies and actors.
 
